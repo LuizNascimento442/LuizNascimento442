@@ -7,7 +7,7 @@
 
 ![LuizNascimento442 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizNascimento442&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luiz Felipe)](https://github.com/LuizNascimento442/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/LuizNascimento442/github-readme-stats)
 
 
 

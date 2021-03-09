@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **LuizNascimento442/LuizNascimento442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [linkedin](https://www.linkedin.com/in/luiz-felipe-nascimento-0506b11bb)
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

@@ -7,7 +7,7 @@
 
 ![LuizNascimento442 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizNascimento442&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipera&langs_count=8)](https://github.com/LuizNascimento442/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFeliper&langs_count=8)](https://github.com/LuizNascimento442/github-readme-stats)
 
 
 

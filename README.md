@@ -8,6 +8,7 @@
 
 ## Connect With me:
 
-<a href = "https://www.linkedin.com/in/luiz-felipe-nascimento-0506b11bb/"
-<img align = "center" alt = "Luiz Felipe Linkedln" height ="30" width = "40"src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-</a>
+   <a href="https://www.linkedin.com/in/luiz-felipe-nascimento-0506b11bb/">
+   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Luiz Felipe Linkedln" height="30" width="40">
+   </a>
+  

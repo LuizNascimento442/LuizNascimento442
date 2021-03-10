@@ -2,7 +2,6 @@
 
 ## I am Luiz Felipe
 
-![LuizNascimento442 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizNascimento442&show_icons=true&theme=radical)
 
 ## Connect With me:
 
@@ -25,4 +24,15 @@
   
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" style="max-width: 100%;">
    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+![LuizNascimento442 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizNascimento442&show_icons=true&theme=radical)
   

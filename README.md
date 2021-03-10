@@ -28,6 +28,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" style="max-width: 100%;">
    </img>
    
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width: 100%;"></img>
+   
    
    
    

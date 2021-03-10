@@ -35,5 +35,9 @@
    
    
    
+   
 ![LuizNascimento442 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizNascimento442&show_icons=true&theme=radical)
+
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizNascimento442)](https://github.com/LuizNascimento442/github-readme-stats)
   

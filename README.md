@@ -14,10 +14,10 @@
   <a href="https://www.facebook.com/profile.php?id=100004104362652">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Luiz Felipe Facebook" height="30" width="40">
   </a>
- 
+   
    
    <a href="https://www.instagram.com/luizfelipe3608/">
-   <img src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="Luiz Felipe instagram" height="30" width="40">
+   <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1615378793~hmac=b48c198ec8238d0a71ce513e98a10d10" alt="Luiz Felipe instagram" height="30" width="40">
    </a>
   
   

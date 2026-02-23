@@ -17,7 +17,8 @@
 
   
   
-  ## My Skills:
+  ## 🚀 Tecnologias que estou estudando
+
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" width="60" alt="Java"/>

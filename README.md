@@ -34,30 +34,18 @@
 
 
 <a href="">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40">
-</a>
-
-<a href="">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" width="40">
-</a>
-
-<a href="">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40">
 </a>
 
+<a href="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="40">
+</a>
+
+
 
 
    
    
    
-   
-   
-   
-   
-   
-   
-![LuizNascimento442 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizNascimento442&show_icons=true&theme=radical)
 
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizNascimento442)](https://github.com/LuizNascimento442/github-readme-stats)
   

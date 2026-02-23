@@ -49,7 +49,7 @@ Estou desenvolvendo projetos práticos em Java para fortalecer minha base em ló
 ## 📫 Contato
 
 📧 felipe_98@hotmail.com.br
-💼 LinkedIn: (https://www.linkedin.com/in/luiz-felipe-nascimento-undefined-0232aa3a2/)  
+💼 LinkedIn: (https://www.linkedin.com/in/luiz-felipe-do-nascimento-0232aa3a2/)  
 
 ---
 

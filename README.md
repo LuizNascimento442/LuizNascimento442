@@ -1,23 +1,20 @@
-### Hi there 👋
+# 👋 Olá, eu sou Luiz Felipe
 
-## I am Luiz Felipe
+🎯 Estudante de Desenvolvimento de Software  
+💻 Focado em Java e desenvolvimento backend  
+📚 Atualmente estudando lógica de programação e orientação a objetos  
+🚀 Em busca da minha primeira oportunidade como desenvolvedor  
 
+---
 
-## Connect With me:
+## 🧠 Sobre mim
 
-<a href="https://www.linkedin.com/in/luiz-felipe-nascimento-0506b11bb/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Luiz Felipe Linkedln" height="30" width="40">
-</a>
-   
+Sou estudante dedicado, focado em evoluir todos os dias na programação.  
+Estou desenvolvendo projetos práticos em Java para fortalecer minha base em lógica, estruturas de dados e orientação a objetos.
 
-<a href="https://www.facebook.com/profile.php?id=100004104362652">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Luiz Felipe Facebook" height="30" width="40">
-</a>
+---
 
-
-  
-  
-  ## 🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias que estou estudando
 
 <div align="center">
 
@@ -28,12 +25,32 @@
 
 </div>
 
+---
 
+## 📌 Projetos em destaque
 
+🔹 Sistema de cadastro de alunos em Java (menu interativo com arrays)  
+🔹 Calculadora com loop infinito e tratamento de opções  
+🔹 Exercícios práticos de lógica com vetores  
 
+*(Em breve projetos com Orientação a Objetos e banco de dados)*
 
-   
-   
-   
+---
 
-  
+## 📈 Objetivo 2026
+
+✔️ Dominar Java  
+✔️ Aprender Spring Boot  
+✔️ Criar API REST  
+✔️ Conquistar vaga como Desenvolvedor Júnior  
+
+---
+
+## 📫 Contato
+
+📧 felipe_98@hotmail.com.br
+💼 LinkedIn: (https://www.linkedin.com/in/luiz-felipe-nascimento-undefined-0232aa3a2/)  
+
+---
+
+⭐ Sempre aprendendo e evoluindo um passo por dia.

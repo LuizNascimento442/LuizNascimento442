@@ -37,6 +37,19 @@ Estou desenvolvendo projetos práticos em Java para fortalecer minha base em ló
 
 ---
 
+## 📚 Aprendizados Recentes
+
+Durante meus estudos recentes, pratiquei:
+
+- Matrizes (arrays bidimensionais)
+- Percorrer linhas e colunas com for aninhado
+- Soma de elementos da matriz
+- Diagonal principal
+- Melhoria na organização de código
+- Controle de fluxo com menus interativos
+
+Estou evoluindo na base de lógica antes de avançar para Programação Orientada a Objetos (POO).
+
 ## 📈 Objetivo 2026
 
 ✔️ Dominar Java  

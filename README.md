@@ -26,6 +26,13 @@ Estou desenvolvendo projetos práticos em Java para fortalecer minha base em ló
 </div>
 
 ---
+📈 Atualmente estudando
+
+Java
+
+Estruturas de dados básicas
+
+Programação orientada a objetos
 
 ## 📌 Projetos em destaque
 

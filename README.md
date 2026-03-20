@@ -44,16 +44,43 @@ Programação orientada a objetos
 
 ---
 
-## 📚 Aprendizados Recentes
+📚 Aprendizados Recentes
 
-Durante meus estudos recentes, pratiquei:
+Durante meus estudos, pratiquei e desenvolvi habilidades em:
 
-- Matrizes (arrays bidimensionais)
-- Percorrer linhas e colunas com for aninhado
-- Soma de elementos da matriz
-- Diagonal principal
-- Melhoria na organização de código
-- Controle de fluxo com menus interativos
+✅ Matrizes (arrays bidimensionais)
+
+✅ Percorrer linhas e colunas com for aninhado
+
+✅ Soma de elementos da matriz
+
+✅ Identificação da diagonal principal
+
+✅ Controle de fluxo com menus interativos
+
+✅ Organização e estruturação de código
+
+📌 Conteúdos Estudados
+
+Até o momento, pratiquei e apliquei:
+
+✅ Estrutura básica de um programa Java
+
+✅ Uso de ArrayList
+
+✅ Classe Arrays.asList()
+
+✅ Estruturas condicionais (if, else)
+
+✅ Estruturas de repetição (for, while)
+
+✅ Criação de menus interativos
+
+✅ Organização com package
+
+✅ Boas práticas de código
+
+📌 Atualmente estou fortalecendo minha base em lógica antes de avançar totalmente para POO.
 
 Estou evoluindo na base de lógica antes de avançar para Programação Orientada a Objetos (POO).
 

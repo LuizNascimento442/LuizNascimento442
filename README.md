@@ -91,6 +91,16 @@ Estou evoluindo na base de lógica antes de avançar para Programação Orientad
 ✔️ Criar API REST  
 ✔️ Conquistar vaga como Desenvolvedor Júnior  
 
+🚀 Próximos Passos
+
+🔜 Aplicar conceitos de POO nos projetos
+
+🔜 Trabalhar com banco de dados (SQL)
+
+🔜 Criar sistemas mais completos
+
+🔜 Versionamento profissional com Git
+
 ---
 
 ## 📫 Contato

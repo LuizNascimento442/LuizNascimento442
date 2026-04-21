@@ -35,7 +35,7 @@ Busco evoluir constantemente até estar preparado para trabalhar com Spring Boot
 ✔️ Cálculo de desconto e média de preços
 ✔️ Uso de ArrayList e POO
 
-🔗 (adicione o link aqui)
+🔗 (https://github.com/LuizNascimento442/sistema-cadastro-produtos-java)
 
 ---
 

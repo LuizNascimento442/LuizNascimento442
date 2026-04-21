@@ -1,113 +1,93 @@
 # 👋 Olá, eu sou Luiz Felipe
 
-🎯 Estudante de Desenvolvimento de Software  
-💻 Focado em Java e desenvolvimento backend  
-📚 Atualmente estudando lógica de programação e orientação a objetos  
-🚀 Em busca da minha primeira oportunidade como desenvolvedor  
+🎯 Desenvolvedor em formação com foco em Java Backend
+💻 Construindo projetos práticos para evoluir em programação
+🚀 Em busca da minha primeira oportunidade como Desenvolvedor Java Júnior
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante dedicado, focado em evoluir todos os dias na programação.  
-Estou desenvolvendo projetos práticos em Java para fortalecer minha base em lógica, estruturas de dados e orientação a objetos.
+Atualmente estou focado em aprender Java através de projetos práticos, desenvolvendo minha base em lógica de programação, estruturas de dados e Programação Orientada a Objetos (POO).
+
+Busco evoluir constantemente até estar preparado para trabalhar com Spring Boot e desenvolvimento de APIs REST.
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" width="60" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" width="60" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" width="60" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" width="60" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" width="60"/>
 
 </div>
 
 ---
-📈 Atualmente estudando
-
-Java
-
-Estruturas de dados básicas
-
-Programação orientada a objetos
 
 ## 📌 Projetos em destaque
 
-🔹 Sistema de cadastro de alunos em Java (menu interativo com arrays)  
-🔹 Calculadora com loop infinito e tratamento de opções  
-🔹 Exercícios práticos de lógica com vetores  
+### 🛒 Sistema de Cadastro de Produtos
 
-*(Em breve projetos com Orientação a Objetos e banco de dados)*
+✔️ Cadastro, listagem e remoção
+✔️ Cálculo de desconto e média de preços
+✔️ Uso de ArrayList e POO
+
+🔗 (adicione o link aqui)
 
 ---
 
-📚 Aprendizados Recentes
+### 💰 Sistema Bancário (em desenvolvimento)
 
-Durante meus estudos, pratiquei e desenvolvi habilidades em:
+✔️ Depósitos, saques e transferências
+✔️ Regras de negócio com validação
 
-✅ Matrizes (arrays bidimensionais)
+---
 
-✅ Percorrer linhas e colunas com for aninhado
+### 🛍️ Carrinho de Compras (em desenvolvimento)
 
-✅ Soma de elementos da matriz
+✔️ Adição e remoção de produtos
+✔️ Cálculo de total e descontos
 
-✅ Identificação da diagonal principal
+---
 
-✅ Controle de fluxo com menus interativos
+## 📚 Conhecimentos
 
-✅ Organização e estruturação de código
+* Estruturas condicionais (if/else, switch)
+* Estruturas de repetição (for, while, do-while)
+* Arrays e Matrizes
+* ArrayList
+* Métodos e funções
+* Programação Orientada a Objetos (POO)
+* Organização de código com packages
 
-📌 Conteúdos Estudados
+---
 
-Até o momento, pratiquei e apliquei:
+## 🎯 Objetivo 2026
 
-✅ Estrutura básica de um programa Java
+✔️ Dominar Java
+✔️ Aprender Spring Boot
+✔️ Criar APIs REST
+✔️ Conquistar vaga como Desenvolvedor Java Júnior
 
-✅ Uso de ArrayList
+---
 
-✅ Classe Arrays.asList()
+## 🚀 Próximos passos
 
-✅ Estruturas condicionais (if, else)
-
-✅ Estruturas de repetição (for, while)
-
-✅ Criação de menus interativos
-
-✅ Organização com package
-
-✅ Boas práticas de código
-
-📌 Atualmente estou fortalecendo minha base em lógica antes de avançar totalmente para POO.
-
-Estou evoluindo na base de lógica antes de avançar para Programação Orientada a Objetos (POO).
-
-## 📈 Objetivo 2026
-
-✔️ Dominar Java  
-✔️ Aprender Spring Boot  
-✔️ Criar API REST  
-✔️ Conquistar vaga como Desenvolvedor Júnior  
-
-🚀 Próximos Passos
-
-🔜 Aplicar conceitos de POO nos projetos
-
-🔜 Trabalhar com banco de dados (SQL)
-
-🔜 Criar sistemas mais completos
-
-🔜 Versionamento profissional com Git
+🔜 Aplicar POO em projetos mais completos
+🔜 Integrar com banco de dados (MySQL)
+🔜 Criar APIs com Spring Boot
+🔜 Melhorar organização e arquitetura de código
 
 ---
 
 ## 📫 Contato
 
-📧 felipe_98@hotmail.com.br
-💼 LinkedIn: (https://www.linkedin.com/in/luiz-felipe-do-nascimento-0232aa3a2/)  
+📧 [felipe_98@hotmail.com.br](Email:felipe_98@hotmail.com.br)
+💼 LinkedIn: https://www.linkedin.com/in/luiz-felipe-do-nascimento-0232aa3a2/
 
 ---
 
-⭐ Sempre aprendendo e evoluindo um passo por dia.
+⭐ Em evolução constante na programação

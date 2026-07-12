@@ -39,6 +39,12 @@ Busco evoluir constantemente até estar preparado para trabalhar com Spring Boot
 
 ---
 
+🎮 Jogo Matemático em Java
+
+Jogo em modo console onde o usuário escolhe o nível de dificuldade, responde operações matemáticas aleatórias e acumula pontos.
+https://github.com/LuizNascimento442/game-java
+
+
 ### 💰 Sistema Bancário (em desenvolvimento)
 
 ✔️ Depósitos, saques e transferências
